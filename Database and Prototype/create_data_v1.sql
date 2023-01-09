@@ -1,0 +1,5 @@
+INSERT INTO `fashion_accessories`.`advertisement` (`id`, `image`, `start_date`, `end_date`) VALUES ('1', 'https://www.kovet.in/wp-content/uploads/2019/08/Why-Fashion-Accessories-are-so-Important.png', '2023-01-01', '2023-02-01');
+INSERT INTO `fashion_accessories`.`advertisement` (`id`, `image`, `start_date`, `end_date`) VALUES ('2', 'https://theme.hstatic.net/1000381590/1000487932/14/slideshow_1.jpg?v=716', '2023-01-01', '2023-02-01');
+INSERT INTO `fashion_accessories`.`advertisement` (`id`, `image`, `start_date`, `end_date`) VALUES ('3', 'https://www.designscene.net/wp-content/uploads/2011/01/Gucci-Spring-Summer-2011-Eyewear-and-Accessory-DesignSceneNet-05.jpg', '2023-01-01', '2023-02-01');
+INSERT INTO `fashion_accessories`.`advertisement` (`id`, `image`, `start_date`, `end_date`) VALUES ('4', 'https://media.gettyimages.com/id/614836502/photo/flat-lay-of-beauty-products-on-bloggers-desk.jpg?s=612x612&w=gi&k=20&c=sSmuzwtGUQ-6y9pbzteU0HUvoPss4QdeIP2WaF_J_fo=', '2023-01-01', '2023-02-01');
+

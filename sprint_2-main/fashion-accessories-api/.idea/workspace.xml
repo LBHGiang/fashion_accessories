@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d45bc2ca-e7e8-48a9-ad9c-033196c3b3d1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/bootstrap520/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/bootstrap520/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/bootstrap520/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/bootstrap520/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/bootstrap520/css/bootstrap-grid.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/bootstrap520/css/bootstrap-grid.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/bootstrap520/css/bootstrap-grid.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/bootstrap520/css/bootstrap-grid.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/bootstrap520/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/bootstrap520/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/bootstrap520/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/bootstrap520/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/bootstrap520/css/bootstrap-reboot.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/bootstrap520/css/bootstrap-reboot.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/bootstrap520/css/bootstrap-reboot.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/bootstrap520/css/bootstrap-reboot.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/bootstrap520/css/bootstrap-utilities.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/bootstrap520/css/bootstrap-utilities.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/bootstrap520/css/bootstrap-utilities.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/bootstrap520/css/bootstrap-utilities.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/bootstrap520/css/bootstrap-utilities.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/bootstrap520/css/bootstrap-utilities.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/bootstrap520/css/bootstrap-utilities.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/bootstrap520/css/bootstrap-utilities.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/bootstrap520/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/bootstrap520/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/bootstrap520/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/bootstrap520/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/bootstrap520/css/bootstrap.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/bootstrap520/css/bootstrap.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/bootstrap520/css/bootstrap.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/bootstrap520/css/bootstrap.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/bootstrap520/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/bootstrap520/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/bootstrap520/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/bootstrap520/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/bootstrap520/js/bootstrap.esm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/bootstrap520/js/bootstrap.esm.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/bootstrap520/js/bootstrap.esm.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/bootstrap520/js/bootstrap.esm.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/bootstrap520/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/bootstrap520/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/bootstrap520/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/bootstrap520/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/css/custom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/css/fontawesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/css/fontawesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/css/slick-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/css/slick-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/css/slick.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/css/templatemo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/css/templatemo.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/css/util.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/Linearicons-Free-v1.0.0/icon-font.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/font-awesome-4.7.0/HELP-US-OUT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/font-awesome-4.7.0/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/font-awesome-4.7.0/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/font-awesome-4.7.0/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/font-awesome-4.7.0/less/animated.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/font-awesome-4.7.0/less/bordered-pulled.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/font-awesome-4.7.0/less/core.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/font-awesome-4.7.0/less/fixed-width.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/font-awesome-4.7.0/less/font-awesome.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/font-awesome-4.7.0/less/icons.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/font-awesome-4.7.0/less/larger.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/font-awesome-4.7.0/less/list.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/font-awesome-4.7.0/less/mixins.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/font-awesome-4.7.0/less/path.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/font-awesome-4.7.0/less/rotated-flipped.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/font-awesome-4.7.0/less/screen-reader.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/font-awesome-4.7.0/less/stacked.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/font-awesome-4.7.0/less/variables.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/font-awesome-4.7.0/scss/_animated.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/font-awesome-4.7.0/scss/_bordered-pulled.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/font-awesome-4.7.0/scss/_core.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/font-awesome-4.7.0/scss/_fixed-width.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/font-awesome-4.7.0/scss/_icons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/font-awesome-4.7.0/scss/_larger.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/font-awesome-4.7.0/scss/_list.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/font-awesome-4.7.0/scss/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/font-awesome-4.7.0/scss/_path.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/font-awesome-4.7.0/scss/_rotated-flipped.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/font-awesome-4.7.0/scss/_screen-reader.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/font-awesome-4.7.0/scss/_stacked.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/font-awesome-4.7.0/scss/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/font-awesome-4.7.0/scss/font-awesome.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/montserrat/Montserrat-Black.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/montserrat/Montserrat-BlackItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/montserrat/Montserrat-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/montserrat/Montserrat-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/montserrat/Montserrat-ExtraBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/montserrat/Montserrat-ExtraBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/montserrat/Montserrat-ExtraLight.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/montserrat/Montserrat-ExtraLightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/montserrat/Montserrat-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/montserrat/Montserrat-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/montserrat/Montserrat-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/montserrat/Montserrat-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/montserrat/Montserrat-MediumItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/montserrat/Montserrat-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/montserrat/Montserrat-SemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/montserrat/Montserrat-SemiBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/montserrat/Montserrat-Thin.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/montserrat/Montserrat-ThinItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/montserrat/OFL.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/poppins/Poppins-Black.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/poppins/Poppins-BlackItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/poppins/Poppins-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/poppins/Poppins-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/poppins/Poppins-ExtraBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/poppins/Poppins-ExtraBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/poppins/Poppins-ExtraLight.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/poppins/Poppins-ExtraLightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/poppins/Poppins-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/poppins/Poppins-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/poppins/Poppins-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/poppins/Poppins-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/poppins/Poppins-MediumItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/poppins/Poppins-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/poppins/Poppins-SemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/poppins/Poppins-SemiBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/poppins/Poppins-Thin.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/fonts/poppins/Poppins-ThinItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/img/banner_img_01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/img/banner_img_02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/img/banner_img_03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/img/banner_img_04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/img/banner_img_05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/img/bg-02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/img/bmt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/img/bmt_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/img/brand_01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/img/brand_02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/img/brand_03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/img/brand_04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/img/product_single_01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/img/product_single_02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/img/product_single_03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/img/product_single_04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/img/product_single_05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/img/product_single_06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/img/product_single_07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/img/product_single_08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/img/product_single_09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/img/product_single_10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/img/shop_01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/img/shop_02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/img/shop_03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/img/shop_04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/img/shop_05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/img/shop_06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/img/shop_07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/img/shop_08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/img/shop_09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/img/shop_10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/img/shop_11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/js/custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/js/jquery-1.11.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/js/jquery-migrate-1.2.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/js/slick.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/js/templatemo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/js/templatemo.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/vendor/animate/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/vendor/animsition/css/animsition.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/vendor/animsition/css/animsition.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/vendor/animsition/js/animsition.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/vendor/animsition/js/animsition.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/vendor/bootstrap/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/vendor/bootstrap/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/vendor/bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/vendor/bootstrap/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/vendor/bootstrap/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/vendor/bootstrap/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/vendor/bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/vendor/bootstrap/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/vendor/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/vendor/bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/vendor/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/vendor/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/vendor/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/vendor/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/vendor/bootstrap/js/popper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/vendor/bootstrap/js/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/vendor/bootstrap/js/tooltip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/vendor/countdowntime/countdowntime.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/vendor/css-hamburgers/hamburgers.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/vendor/css-hamburgers/hamburgers.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/vendor/daterangepicker/daterangepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/vendor/daterangepicker/daterangepicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/vendor/daterangepicker/moment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/vendor/daterangepicker/moment.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/vendor/jquery/jquery-3.2.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/vendor/perfect-scrollbar/perfect-scrollbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/vendor/perfect-scrollbar/perfect-scrollbar.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/vendor/select2/select2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/vendor/select2/select2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/vendor/select2/select2.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sport_Shoes/fe/src/assets/vendor/select2/select2.min.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2JtAtZ0Nz8Mv3l9AHP8sZoMBgpT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/auction/Auction-api" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d45bc2ca-e7e8-48a9-ad9c-033196c3b3d1" name="Default Changelist" comment="" />
+      <created>1672887220248</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672887220248</updated>
+      <workItem from="1672887222160" duration="183000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="115" key="FileChooserDialogImpl" timestamp="1672887393496">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="421" y="115" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1672887393496" />
+    <state x="91" y="0" key="new project wizard" timestamp="1672887404093">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="91" y="0" key="new project wizard/0.0.1280.720@0.0.1280.720" timestamp="1672887404093" />
+  </component>
+</project>

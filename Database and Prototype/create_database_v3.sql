@@ -20,11 +20,9 @@ delete_status bit
 );
 
 create table  product (
-id int primary key auto_increment,
-color varchar (255),
+id varchar(50) primary key,
 origin varchar (50),
 price varchar (50),
-quantity int,
 date_submid date,
 discount_id varchar (50),
 descriptions text,
@@ -34,12 +32,21 @@ foreign key (category_id) references category (id),
 foreign key (discount_id) references discount (id)
 );
 
+create table  product_detail (
+id  varchar (50) primary key,
+color varchar (50),
+product_id varchar(50),
+quantity int,
+delete_status bit,
+foreign key (product_id) references product (id)
+);
+
 create table image (
 id int primary key auto_increment,
 url varchar(255),
-product_id int,
+product_detail_id  varchar(50),
 delete_status bit,
-foreign key (product_id) references product (id)
+foreign key (product_detail_id) references product_detail (id)
 );
 
 -- Staff
@@ -113,10 +120,10 @@ foreign key (phone) references customer(phone)
 create table `order`(
 id int primary key auto_increment,
 payment_id int,
-product_id int,
+product_detail_id varchar(50),
 quantity int,
 delete_status bit,
-foreign key (product_id) references product(id),
+foreign key (product_detail_id) references product_detail(id),
 foreign key (payment_id) references payment(id)
 );
 
@@ -129,4 +136,4 @@ end_date date
 );
 
 
-
+-- Nhà cung cấp
